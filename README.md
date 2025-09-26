@@ -70,7 +70,7 @@ Tagline: Vision Meets Technology
 
 📫 Connect with Me
 
-💻 GitHub: YourUsername
+💻 GitHub: UmarAli8627
 
 🌐 Portfolio/Projects (coming soon 🚧)
 
