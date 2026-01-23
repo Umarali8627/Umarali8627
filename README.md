@@ -1,8 +1,8 @@
  ## 🌟 Hi, I'm Umar Ali
 
-🚀 AI/ML Engineer in the making | Computer Vision Enthusiast | Future AI Researcher
+🚀 AI/ML Engineer in the making |  Future AI Engineer
 
-Welcome to my GitHub! I’m passionate about Artificial Intelligence, Machine Learning, and Deep Learning. My journey is driven by curiosity and the dream of becoming an AI Researcher (and one day working at Google).
+Welcome to my GitHub! I’m passionate about Artificial Intelligence, Machine Learning, and Deep Learning and Genrative AI . My journey is driven by curiosity and the dream of becoming an AI Engineer  (and one day working at Google).
 
  ## 👨‍💻 About Me
 
@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m passionate about Artificial Intelligence, Machine Le
 
 📚 Learning AI/ML through project-based exploration
 
-🧠 Strong in CNNs, Computer Vision, Clustering, Regression & Neural Networks
+🧠 Strong in CNNs, Classification, Clustering, Regression & Neural Networks , GenAI
 
 📌 Currently focused on:
 
@@ -18,7 +18,7 @@ Computer Vision (CNNs, image classification, detection, clustering)
 
 RNNs (Recurrent Neural Networks for text/sequential data)
 
-AI Agents & Real-time AI Applications
+AI Agents & Real-time AI Applications 
 
 🌍 Based in Pakistan, exploring opportunities locally and globally.
 
@@ -31,6 +31,7 @@ Frameworks & Libraries: TensorFlow, Keras, scikit-learn, OpenCV, Flask
 Other Tools: Git, GitHub, Hugging Face, Railway, Streamlit
 
  ## 🔬 My Projects
+ University Chatbot-> RAG based application using LangChain , Sql_agent , 
 
 🧑‍⚕️ EYE LAB → A real-time web app for eye disease prediction using fundus images.
 
@@ -60,13 +61,12 @@ Tagline: Vision Meets Technology
 
 🌟 Goals
 
-📖 Write a complete AI/ML learning book with theory + Python code.
 
 🏗️ Build production-ready AI projects (deployments, APIs, real-time apps).
 
-🧑‍🔬 Contribute to AI research and publish papers.
+🧑‍🔬 Contribute to AI Industry 
 
-💼 Become a Senior AI/ML Engineer and researcher at Google.
+💼 Become a Senior AI/ML Engineer at Google.
 
 📫 Connect with Me
 
