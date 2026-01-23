@@ -24,11 +24,11 @@ AI Agents & Real-time AI Applications
 
 🛠️ Tech & Tools I Work With
 
-Languages: Python, SQL, HTML/CSS/JS
+Languages: Python, SQL, HTML/CSS/JS , Java , C# , C++  , nodejs , Reactjs
 
-Frameworks & Libraries: TensorFlow, Keras, scikit-learn, OpenCV, Flask
+Frameworks & Libraries: TensorFlow, Keras, scikit-learn, OpenCV, Flask , LangChain , working on LangGraph 
 
-Other Tools: Git, GitHub, Hugging Face, Railway, Streamlit
+Other Tools: Git, GitHub, Hugging Face, Railway, Streamlit , 
 
  ## 🔬 My Projects
  University Chatbot-> RAG based application using LangChain , Sql_agent , 
