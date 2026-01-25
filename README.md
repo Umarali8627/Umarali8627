@@ -1,4 +1,5 @@
-👋 Umar Ali
+ Umar Ali
+
 AI / Machine Learning Engineer | Computer Vision | Generative AI | RAG Systems
 
 🚀 Building production-ready AI systems, not just models
