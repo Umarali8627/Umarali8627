@@ -1,79 +1,137 @@
- ## 🌟 Hi, I'm Umar Ali
+👋 Umar Ali
+AI / Machine Learning Engineer | Computer Vision | Generative AI | RAG Systems
 
-🚀 AI/ML Engineer in the making |  Future AI Engineer
+🚀 Building production-ready AI systems, not just models
+🎯 Aspiring Senior AI Engineer @ Google
 
-Welcome to my GitHub! I’m passionate about Artificial Intelligence, Machine Learning, and Deep Learning and Genrative AI . My journey is driven by curiosity and the dream of becoming an AI Engineer  (and one day working at Google).
+I’m an AI/ML Engineer with strong hands-on experience in Computer Vision, Deep Learning, and Generative AI.
+My work focuses on real-world deployment, scalable architectures, and end-to-end AI applications — from data to production.
 
- ## 👨‍💻 About Me
+🔍 What I Do (Recruiter Snapshot)
 
-🎓 Certified AI Engineer
+✅ Design & train CNN-based vision models
 
-📚 Learning AI/ML through project-based exploration
+✅ Build RAG systems & AI agents
 
-🧠 Strong in CNNs, Classification, Clustering, Regression & Neural Networks , GenAI
+✅ Deploy ML models as real-time web applications
 
-📌 Currently focused on:
+✅ Work with medical, educational & recommendation systems
 
-Computer Vision (CNNs, image classification, detection, clustering)
+✅ Translate research concepts into business-ready solutions
 
-RNNs (Recurrent Neural Networks for text/sequential data)
+🌍 Based in Pakistan | Open to Remote & Global roles
 
-AI Agents & Real-time AI Applications 
+🧠 Core Expertise
 
-🌍 Based in Pakistan, exploring opportunities locally and globally.
+Machine Learning & Deep Learning
 
-🛠️ Tech & Tools I Work With
+Computer Vision (Classification, Detection, Clustering)
 
-Languages: Python, SQL, HTML/CSS/JS , Java , C# , C++  , nodejs , Reactjs
+CNN Architectures (VGG19, MobileNetV2, Custom CNNs)
 
-Frameworks & Libraries: TensorFlow, Keras, scikit-learn, OpenCV, Flask , LangChain , working on LangGraph 
+RNNs & Sequential Models (learning in progress)
 
-Other Tools: Git, GitHub, Hugging Face, Railway, Streamlit , 
+Generative AI, LangChain, LangGraph
 
- ## 🔬 My Projects
- University Chatbot-> RAG based application using LangChain , Sql_agent , 
+Model Deployment & APIs (Flask, FastAPI)
 
-🧑‍⚕️ EYE LAB → A real-time web app for eye disease prediction using fundus images.
+🛠️ Tech Stack
 
-Frontend + Flask Backend
+Languages
+Python SQL JavaScript Java C# C++
 
-Features: patient detail collection, image upload, prediction, reports with visualizations
+Frameworks & Libraries
+TensorFlow Keras scikit-learn OpenCV
+Flask FastAPI LangChain LangGraph
+React.js Node.js
 
-Tagline: Vision Meets Technology
+Tools & Platforms
+Git GitHub Hugging Face Streamlit
+Railway Docker
 
-🎬 Video Dubber → Web app for automatic video dubbing into any language (with lip-sync).
+🚀 Featured Projects
+🧑‍⚕️ EYE LAB — Vision Meets Technology
 
-🎥 Movie Recommendation System → Deployed on Railway with GitHub integration.
+Real-time Eye Disease Prediction System
 
-🐾 Animal Detection CNN → Custom CNN for classifying animal datasets.
+CNN-based fundus image classification
 
-📊 ML Projects → Heart disease prediction, spam detection, house price prediction.
+Flask backend + interactive frontend
 
-📈 Learning Path
+Patient data handling + image upload
+
+Prediction reports with visual analytics
+
+📌 Medical AI with full production pipeline
+
+🎓 University Chatbot (RAG System)
+
+Retrieval-Augmented Generation (RAG)
+
+Built with LangChain
+
+SQL Agent + document-based QA
+
+Designed for real university operations
+
+🎬 AI Video Dubber
+
+Automatic multilingual video dubbing
+
+AI-powered speech synthesis & lip-sync
+
+🎥 Movie Recommendation System
+
+ML-based recommender system
+
+Fully deployed on Railway
+
+CI/CD via GitHub integration
+
+🐾 Animal Detection CNN
+
+Custom CNN architecture
+
+Multi-class image classification
+
+Real-world dataset training
+
+📊 Machine Learning Projects
+
+Heart Disease Prediction
+
+Email Spam Detection
+
+House Price Prediction
+
+📈 Learning & Growth
 
 ✅ Regression, Classification, Clustering
 
-✅ Image Classification (VGG19, MobileNetV2, Custom CNNs)
+✅ CNNs & Transfer Learning
 
-🔄 Transitioning into RNNs and NLP
+🔄 RNNs, NLP & Sequential Data
 
-🎯 Exploring AI Agents & Research
+🧠 AI Agents & Research-Oriented Systems
 
-🌟 Goals
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=UmarAli8627&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarAli8627&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarAli8627&theme=tokyonight&hide_border=true"/> </p>
+🏆 Career Goals
 
+🏗️ Build scalable, production-grade AI systems
 
-🏗️ Build production-ready AI projects (deployments, APIs, real-time apps).
+🚀 Work on high-impact AI products
 
-🧑‍🔬 Contribute to AI Industry 
+🧑‍🔬 Contribute to AI research & innovation
 
-💼 Become a Senior AI/ML Engineer at Google.
+💼 Become a Senior AI / ML Engineer at Google
 
-📫 Connect with Me
+📫 Let’s Connect
 
-💻 GitHub: UmarAli8627
+💻 GitHub: https://github.com/UmarAli8627
 
-🌐 Portfolio/Projects (coming soon 🚧)
+🌐 Portfolio: Coming soon 🚧
 
-✉️ Reach out for collaborations on AI/ML projects!
+🤝 Open to collaborations, internships & full-time roles
 
-⭐️ "AI is not just about building models, it’s about shaping the future."
+⭐️ “AI isn’t just about models — it’s about impact.”
