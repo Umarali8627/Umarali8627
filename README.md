@@ -8,7 +8,7 @@ AI / Machine Learning Engineer | Computer Vision | Generative AI | RAG Systems
 I’m an AI/ML Engineer with strong hands-on experience in Computer Vision, Deep Learning, and Generative AI.
 My work focuses on real-world deployment, scalable architectures, and end-to-end AI applications — from data to production.
 
-🔍 What I Do (Recruiter Snapshot)
+🔍 What I Do 
 
 ✅ Design & train CNN-based vision models
 
