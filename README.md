@@ -12,7 +12,7 @@
 
 💼 Become a Senior AI / ML Engineer at Google
 
-📫 Let’s Connect
+📫 Let’s Connect with me 
 
 💻 GitHub: https://github.com/UmarAli8627
 
